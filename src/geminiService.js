@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyDrldTu9NwdYerNbn9CyVCB3M1REmGyWeg";
+const API_KEY = import.meta.env.VITE_GEMINI_API_KEY;
 
 export async function generateAIResponse(question) {
 
