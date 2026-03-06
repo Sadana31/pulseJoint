@@ -81,6 +81,9 @@ Responsibilities of this layer include:
 
 This layer ensures a **smooth and efficient user experience for healthcare professionals**.
 
+<img width="1600" height="809" alt="image" src="https://github.com/user-attachments/assets/8e3e71a0-99df-46d5-aab2-ea45681c5967" />
+
+
 ---
 
 ## 2️⃣ AI Processing Layer
@@ -104,6 +107,8 @@ This significantly reduces the time required for doctors to draft responses manu
 
 This layer ensures that **AI-generated responses are always reviewed by doctors before being delivered to patients**.
 
+<img width="2664" height="1277" alt="image" src="https://github.com/user-attachments/assets/ae0b3325-f57c-4c3e-a7af-5087860fd21d" />
+
 Doctors can:
 
 * Review AI responses
@@ -116,6 +121,8 @@ This ensures that **AI acts only as a supportive tool while medical decisions re
 ---
 
 # 🔄 System Workflow
+<img width="1600" height="841" alt="image" src="https://github.com/user-attachments/assets/7501dab3-e1cb-4358-9d45-8d563217d174" />
+
 
 The workflow of the system follows a structured process:
 
@@ -273,17 +280,8 @@ Possible enhancements include:
 
 # Working Model
 
-![alt text](image.png)
-Inbox Left
+<img width="1600" height="806" alt="image" src="https://github.com/user-attachments/assets/453a961c-5d53-4df7-8db4-6d3a1d30982b" />
 
-![alt text](image-1.png)
-Consultation Page
-
-![alt text](image-2.png)
-Portal Select
-
-![alt text](image-3.png)
-Clinical Response Page
 
 
 
